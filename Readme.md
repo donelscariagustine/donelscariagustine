@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=terminal&color=0:000000,100:0d1117&height=250&section=header&text=DONEL%20SCARIA%20GUSTINE&fontSize=32&fontColor=00ff9d&fontAlignY=45&desc=%3E_%20Backend%20Developer%20~%20Python%20~%20C%20~%20Java&descAlignY=65&descAlign=50&animation=blink"/>
+# Donel Scaria Gustine
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=00FF9D&background=0D111700&center=true&vCenter=true&width=650&lines=root%40donel%3A~%24+whoami;%3E+backend_dev+%7C+python+%7C+problem_solver;root%40donel%3A~%24+cat+status.txt;%3E+OPEN_TO_INTERNSHIPS+%3D+true;root%40donel%3A~%24+_"/>
 
@@ -16,20 +16,18 @@
 <br>
 
 ```ansi
-┌──────────────────────────────────────────────────────────────────┐
-│  root@donel-dev: ~                                       — □ ×   │
-├──────────────────────────────────────────────────────────────────┤
-│ root@donel:~$ neofetch                                            │
-│                                                                    │
-│   ██████╗  ██████╗                  OS: Human.dev                │
-│   ██╔══██╗██╔════╝                  Role: Backend Developer      │
-│   ██║  ██║██║  ███╗                 Focus: Python / C / Java     │
-│   ██║  ██║██║   ██║                 Status: Open to Internships  │
-│   ██████╔╝╚██████╔╝                 Education: Integrated MCA    │
-│   ╚═════╝  ╚═════╝                  Location: Kerala, India      │
-│                                                                    │
-│ root@donel:~$ _                                                   │
-└──────────────────────────────────────────────────────────────────┘
+[1;36mroot@donel[0m:[1;34m~[0m$ neofetch
+
+[1;32m  Donel Scaria Gustine[0m
+[0;90m  ────────────────────[0m
+[1;33mOS[0m........: Human.dev
+[1;33mRole[0m......: Backend Developer
+[1;33mFocus[0m.....: Python / C / Java
+[1;33mStatus[0m....: [1;32mOpen to Internships[0m
+[1;33mEducation[0m.: Integrated MCA
+[1;33mLocation[0m..: Kerala, India
+
+[1;36mroot@donel[0m:[1;34m~[0m$ _
 ```
 
 <br>
@@ -162,8 +160,6 @@ root@donel:~$ ./run_stats.sh --verbose
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=donelscariagustine&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff9d&line=ff6b6b&point=ffffff" width="90%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=donelscariagustine&type=snake" width="100%"/>
-
 </div>
 
 <br>
@@ -193,9 +189,5 @@ root@donel:~$ ./contact.sh --info
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=donelscariagustine&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=terminal&color=0:0d1117,100:000000&height=120&section=footer&text=root%40donel%3A~%24%20exit&fontSize=16&fontColor=00ff9d&animation=fadeIn"/>
 
 </div>
