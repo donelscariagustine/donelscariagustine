@@ -1,36 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00ff9d&height=220&section=header&text=Donel%20Scaria%20Gustine&fontSize=42&fontColor=00ff9d&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%C2%B7%20C%20%C2%B7%20Java&descAlignY=58&descAlign=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=terminal&color=0:000000,100:0d1117&height=250&section=header&text=DONEL%20SCARIA%20GUSTINE&fontSize=32&fontColor=00ff9d&fontAlignY=45&desc=%3E_%20Backend%20Developer%20~%20Python%20~%20C%20~%20Java&descAlignY=65&descAlign=50&animation=blink"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Donel+Scaria+Gustine;%24+cat+role.txt;%3E+Backend+Developer%2C+Python+Programmer;%24+status+--check;%3E+open_to_internships%3A+true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=700&color=00FF9D&background=0D111700&center=true&vCenter=true&width=650&lines=root%40donel%3A~%24+whoami;%3E+backend_dev+%7C+python+%7C+problem_solver;root%40donel%3A~%24+cat+status.txt;%3E+OPEN_TO_INTERNSHIPS+%3D+true;root%40donel%3A~%24+_"/>
 
 <p>
-  <a href="https://donel-scaria-gustine-portfo.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00FF9D?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-  <a href="https://www.linkedin.com/in/donel-gustine-35634837a"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:donelscariagustine@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF3D3D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://donel-scaria-gustine-portfo.netlify.app/Donel_Scaria_Gustine_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-FFB300?style=for-the-badge&logo=readdotcv&logoColor=black"/></a>
+  <a href="https://donel-scaria-gustine-portfo.netlify.app/"><img src="https://img.shields.io/badge/%3E_PORTFOLIO-00FF9D?style=for-the-badge&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/donel-gustine-35634837a"><img src="https://img.shields.io/badge/%3E_LINKEDIN-0A66C2?style=for-the-badge&logoColor=white"/></a>
+  <a href="mailto:donelscariagustine@gmail.com"><img src="https://img.shields.io/badge/%3E_EMAIL-FF3D3D?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://donel-scaria-gustine-portfo.netlify.app/Donel_Scaria_Gustine_Resume.pdf"><img src="https://img.shields.io/badge/%3E_RESUME-FFB300?style=for-the-badge&logoColor=black"/></a>
 </p>
 
 </div>
 
-```bash
-donel@dev:~$ cat about.md
-```
+<br>
 
-> I'm a first-year Integrated MCA student focused on **backend development** and **Python**.
-> I build practical software — from full-stack MERN apps to embedded systems on Arduino —
-> and I'm actively growing into a professional server-side / systems developer.
-> Currently **open to internship opportunities**.
+```ansi
+┌──────────────────────────────────────────────────────────────────┐
+│  root@donel-dev: ~                                       — □ ×   │
+├──────────────────────────────────────────────────────────────────┤
+│ root@donel:~$ neofetch                                            │
+│                                                                    │
+│   ██████╗  ██████╗                  OS: Human.dev                │
+│   ██╔══██╗██╔════╝                  Role: Backend Developer      │
+│   ██║  ██║██║  ███╗                 Focus: Python / C / Java     │
+│   ██║  ██║██║   ██║                 Status: Open to Internships  │
+│   ██████╔╝╚██████╔╝                 Education: Integrated MCA    │
+│   ╚═════╝  ╚═════╝                  Location: Kerala, India      │
+│                                                                    │
+│ root@donel:~$ _                                                   │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 <br>
 
 ```bash
-donel@dev:~$ ls -la ./skills
+root@donel:~$ cat about.md
+```
+
+```
+> First-year Integrated MCA student focused on backend development & Python.
+> I build practical, working software — gamified apps, event platforms,
+> and embedded systems — and I'm sharpening my server-side / systems skills
+> one project at a time.
+> [STATUS] Actively looking for internship opportunities.
+```
+
+<br>
+
+```bash
+root@donel:~$ ls -la ./skills/
 ```
 
 <div align="center">
 
-**Languages**
+**// languages**
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -38,21 +62,22 @@ donel@dev:~$ ls -la ./skills
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-**Backend & Web**
+**// frontend & backend**
 
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-**Tools & Hardware**
+**// tools & hardware**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
@@ -60,43 +85,63 @@ donel@dev:~$ ls -la ./skills
 <br>
 
 ```bash
-donel@dev:~$ git log --oneline --projects
+root@donel:~$ ls -la ./projects/ | grep -v "archived"
 ```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟢 `CampusConnect`
-Full-stack **MERN** app for college student networking — interest-based matching, real-time chat, gamification.
+```
+drwxr-xr-x  gozy_quests/
+```
 
-`MongoDB` `Express` `React` `Node.js` `Socket.io`
+### 🟢 `Gozy_Quests`
+A cozy, gamified task manager inspired by Animal Crossing & Stardew Valley — track tasks, build streaks, level up, unlock achievement badges, and customize your avatar.
+
+`JavaScript` `React` `Vercel`
+
+**[→ Live Demo](https://gozy-quests.vercel.app/)** · **[→ Source](https://github.com/donelscariagustine/Gozy_Quests)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🟣 `Arduino MP3 Player`
-Portable MP3 player on an **Arduino Nano** + DFPlayer Mini — button controls, OLED display, volume control.
+```
+drwxr-xr-x  evnora/
+```
 
-`Arduino` `C++` `DFPlayer Mini`
+### 🟣 `Evnora`
+An editorial, minimalist platform to discover, create, and host remarkable events — featured events, category filters, and an organizer dashboard.
+
+`JavaScript` `React` `Vercel`
+
+**[→ Live Demo](https://evnora-three.vercel.app/)** · **[→ Source](https://github.com/donelscariagustine/Evnora)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🟡 `Nova — AI Chat Interface`
-A polished chat UI built on the **Anthropic API**, with a clean standalone front end.
+```
+drwxr-xr-x  shadow_realm/
+```
 
-`HTML` `JavaScript` `Anthropic API`
+### ⚫ `Shadow_Realm`
+A personal project in active development.
+
+**[→ Source](https://github.com/donelscariagustine/Shadow_Realm)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🔵 `Personal Portfolio`
-Terminal-themed developer portfolio showcasing projects, skills, and resume.
+```
+drwxr-xr-x  arduino_mp3_player/
+```
 
-`Node.js` `HTML5` `CSS3`
+### 🟡 `Arduino MP3 Player`
+Portable MP3 player built on an Arduino Nano + DFPlayer Mini — button controls, OLED display, and volume control.
+
+`Arduino` `C++` `DFPlayer Mini`
 
 </td>
 </tr>
@@ -105,30 +150,33 @@ Terminal-themed developer portfolio showcasing projects, skills, and resume.
 <br>
 
 ```bash
-donel@dev:~$ ./run_stats.sh
+root@donel:~$ ./run_stats.sh --verbose
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=donelscariagustine&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=donelscariagustine&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff9d&fire=ff6b6b&currStreakLabel=00ff9d" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=donelscariagustine&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9&border_color=00ff9d" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=donelscariagustine&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff9d&fire=ff6b6b&currStreakLabel=00ff9d&border=00ff9d" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donelscariagustine&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donelscariagustine&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&border_color=00ff9d" width="45%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=donelscariagustine&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff9d&line=ff6b6b&point=ffffff" width="90%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=donelscariagustine&type=snake" width="100%"/>
 
 </div>
 
 <br>
 
 ```bash
-donel@dev:~$ cat status.log
+root@donel:~$ cat status.log
 ```
 
 ```diff
-+ STATUS: OPEN_TO_WORK
-+ Actively seeking backend development / software engineering internships
-+ Education: Integrated MCA @ St. Joseph's College of Engineering & Technology, Palai
++ [OK] STATUS: OPEN_TO_WORK
++ [OK] Actively seeking backend development / software engineering internships
++ [OK] Education: Integrated MCA @ St. Joseph's College of Engineering & Technology, Palai
+! [INFO] Building projects daily to sharpen backend + full-stack skills
 ```
 
 <br>
@@ -136,16 +184,18 @@ donel@dev:~$ cat status.log
 <div align="center">
 
 ```bash
-donel@dev:~$ contact --info
+root@donel:~$ ./contact.sh --info
 ```
 
-<a href="https://www.linkedin.com/in/donel-gustine-35634837a"><img src="https://img.shields.io/badge/-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:donelscariagustine@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi-FF3D3D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/donel-gustine-35634837a"><img src="https://img.shields.io/badge/%3E_connect--LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:donelscariagustine@gmail.com"><img src="https://img.shields.io/badge/%3E_say--hi-FF3D3D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=donelscariagustine&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:2c5364,100:0f2027&height=100&section=footer"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=terminal&color=0:0d1117,100:000000&height=120&section=footer&text=root%40donel%3A~%24%20exit&fontSize=16&fontColor=00ff9d&animation=fadeIn"/>
 
 </div>
