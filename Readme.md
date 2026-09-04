@@ -1,26 +1,10 @@
-<div align="center">
-
-<img src="./assets/github-matrix-logo.svg" width="180" alt="binary-github-logo"/>
-
-# DONEL SCARIA GUSTINE
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=600&color=00FF9D&background=0D111700&center=true&vCenter=true&width=680&lines=%3E+INITIALIZING+PROFILE...;%3E+ACCESS+GRANTED;%3E+whoami+%3D%3E+backend_developer;%3E+status+%3D%3E+OPEN_TO_INTERNSHIPS;%3E+encryption%3A+python+%7C+c+%7C+java"/>
-
-<p>
-  <a href="https://donel-scaria-gustine-portfo.netlify.app/"><img src="https://img.shields.io/badge/%3E_PORTFOLIO-00FF9D?style=for-the-badge&logoColor=black"/></a>
-  <a href="https://github.com/donelscariagustine"><img src="https://img.shields.io/badge/%3E_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/donel-gustine-35634837a"><img src="https://img.shields.io/badge/%3E_LINKEDIN-0A66C2?style=for-the-badge&logoColor=white"/></a>
-  <a href="mailto:donelscariagustine@gmail.com"><img src="https://img.shields.io/badge/%3E_EMAIL-FF3D3D?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://donel-scaria-gustine-portfo.netlify.app/Donel_Scaria_Gustine_Resume.pdf"><img src="https://img.shields.io/badge/%3E_RESUME-FFB300?style=for-the-badge&logoColor=black"/></a>
-</p>
-
-</div>
-
-<br>
-
 ```ansi
 [1;32m[SYSTEM]:[0m connection established...
 [1;32m[SYSTEM]:[0m decrypting profile.json...
+[1;32m[SYSTEM]:[0m access granted.
+```
+
+```ansi
 [1;36mroot@donel[0m:[1;34m~[0m$ neofetch
 
 [1;32m  Donel Scaria Gustine[0m
@@ -35,6 +19,26 @@
 
 [1;36mroot@donel[0m:[1;34m~[0m$ _
 ```
+
+```bash
+root@donel:~$ cat links.json
+```
+
+```json
+{
+  "portfolio": "https://donel-scaria-gustine-portfo.netlify.app/",
+  "github":    "https://github.com/donelscariagustine",
+  "linkedin":  "https://www.linkedin.com/in/donel-gustine-35634837a",
+  "email":     "donelscariagustine@gmail.com",
+  "resume":    "https://donel-scaria-gustine-portfo.netlify.app/Donel_Scaria_Gustine_Resume.pdf"
+}
+```
+
+- Portfolio → https://donel-scaria-gustine-portfo.netlify.app/
+- GitHub → https://github.com/donelscariagustine
+- LinkedIn → https://www.linkedin.com/in/donel-gustine-35634837a
+- Email → donelscariagustine@gmail.com
+- Resume → https://donel-scaria-gustine-portfo.netlify.app/Donel_Scaria_Gustine_Resume.pdf
 
 <br>
 
@@ -53,120 +57,66 @@ root@donel:~$ decrypt about.md --key=me
 <br>
 
 ```bash
-root@donel:~$ ls -la ./skills/ --sort=danger
+root@donel:~$ cat skills.yaml
 ```
 
-<div align="center">
+```yaml
+languages:
+  - Python
+  - C
+  - Java
+  - JavaScript
+  - SQL
 
-**// languages**
+backend_and_web:
+  - Node.js
+  - Express.js
+  - MongoDB
+  - React
+  - HTML5
+  - CSS3
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-**// frontend & backend**
-
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-**// tools & hardware**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</div>
+tools_and_hardware:
+  - Git
+  - GitHub
+  - VS Code
+  - Arduino
+  - Vercel
+  - Linux
+```
 
 <br>
 
 ```bash
-root@donel:~$ ./scan_payloads.sh --dir=projects
+root@donel:~$ ls -la ./projects/ | grep -v "archived"
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ```
-[FOUND] gozy_quests.pkg
+drwxr-xr-x  gozy_quests/         [FOUND]
+drwxr-xr-x  evnora/              [FOUND]
+drwxr-xr-x  shadow_realm/        [ENCRYPTED]
+drwxr-xr-x  arduino_mp3_player/  [FOUND]
 ```
 
-### 🟢 `Gozy_Quests`
+**`gozy_quests/`** — Gozy_Quests
 A cozy, gamified task manager inspired by Animal Crossing & Stardew Valley — track tasks, build streaks, level up, unlock achievement badges, and customize your avatar.
-
 `JavaScript` `React` `Vercel`
+Live: https://gozy-quests.vercel.app/
+Source: https://github.com/donelscariagustine/Gozy_Quests
 
-**[→ Live Demo](https://gozy-quests.vercel.app/)** · **[→ Source](https://github.com/donelscariagustine/Gozy_Quests)**
-
-</td>
-<td width="50%" valign="top">
-
-```
-[FOUND] evnora.pkg
-```
-
-### 🟣 `Evnora`
+**`evnora/`** — Evnora
 An editorial, minimalist platform to discover, create, and host remarkable events — featured events, category filters, and an organizer dashboard.
-
 `JavaScript` `React` `Vercel`
+Live: https://evnora-three.vercel.app/
+Source: https://github.com/donelscariagustine/Evnora
 
-**[→ Live Demo](https://evnora-three.vercel.app/)** · **[→ Source](https://github.com/donelscariagustine/Evnora)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```
-[ENCRYPTED] shadow_realm.pkg
-```
-
-### ⚫ `Shadow_Realm`
+**`shadow_realm/`** — Shadow_Realm
 A personal project in active development.
+Source: https://github.com/donelscariagustine/Shadow_Realm
 
-**[→ Source](https://github.com/donelscariagustine/Shadow_Realm)**
-
-</td>
-<td width="50%" valign="top">
-
-```
-[FOUND] arduino_mp3_player.pkg
-```
-
-### 🟡 `Arduino MP3 Player`
+**`arduino_mp3_player/`** — Arduino MP3 Player
 Portable MP3 player built on an Arduino Nano + DFPlayer Mini — button controls, OLED display, and volume control.
-
 `Arduino` `C++` `DFPlayer Mini`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-```bash
-root@donel:~$ ./run_stats.sh --verbose --trace
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=donelscariagustine&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9&border_color=00ff9d" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=donelscariagustine&theme=highcontrast&hide_border=true&background=0d1117&ring=00ff9d&fire=ff6b6b&currStreakLabel=00ff9d&border=00ff9d" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donelscariagustine&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&border_color=00ff9d" width="45%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=donelscariagustine&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff9d&line=ff6b6b&point=ffffff" width="90%"/>
-
-</div>
 
 <br>
 
@@ -184,8 +134,6 @@ root@donel:~$ cat status.log
 
 <br>
 
-<div align="center">
-
 ```ansi
 [1;32m[SYSTEM]:[0m opening secure channel...
 ```
@@ -194,18 +142,11 @@ root@donel:~$ cat status.log
 root@donel:~$ ./contact.sh --secure
 ```
 
-<a href="https://github.com/donelscariagustine"><img src="https://img.shields.io/badge/%3E_source--GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/donel-gustine-35634837a"><img src="https://img.shields.io/badge/%3E_connect--LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:donelscariagustine@gmail.com"><img src="https://img.shields.io/badge/%3E_say--hi-FF3D3D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=donelscariagustine&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS"/>
-
-<br><br>
+```
+> LinkedIn : https://www.linkedin.com/in/donel-gustine-35634837a
+> Email    : donelscariagustine@gmail.com
+```
 
 ```ansi
 [1;32m[SYSTEM]:[0m connection terminated. session logged.
 ```
-
-</div>
