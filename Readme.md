@@ -1,152 +1,145 @@
-```ansi
-[1;32m[SYSTEM]:[0m connection established...
-[1;32m[SYSTEM]:[0m decrypting profile.json...
-[1;32m[SYSTEM]:[0m access granted.
+<div align="center">
+
+```
+██████╗  ██████╗ ███╗   ██╗███████╗██╗     
+██╔══██╗██╔═══██╗████╗  ██║██╔════╝██║     
+██║  ██║██║   ██║██╔██╗ ██║█████╗  ██║     
+██║  ██║██║   ██║██║╚██╗██║██╔══╝  ██║     
+██████╔╝╚██████╔╝██║ ╚████║███████╗███████╗
+╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝
 ```
 
-```ansi
-[1;36mroot@donel[0m:[1;34m~[0m$ neofetch
+**Backend Developer in progress // Python · C · Java**
 
-[1;32m  Donel Scaria Gustine[0m
-[0;90m  ────────────────────[0m
-[1;33mOS[0m........: Human.dev
-[1;33mRole[0m......: Backend Developer
-[1;33mFocus[0m.....: Python / C / Java
-[1;33mStatus[0m....: [1;32mOpen to Internships[0m
-[1;33mEducation[0m.: Integrated MCA
-[1;33mLocation[0m..: Kerala, India
-[1;31mClearance[0m.: [1;32mROOT[0m
+</div>
 
-[1;36mroot@donel[0m:[1;34m~[0m$ _
+---
+
+```bash
+donel@dev:~$ whoami
+```
+```
+Donel Scaria Gustine
+Integrated MCA student @ St. Joseph's College of Engineering & Technology, Palai
+Aspiring backend developer — turning ideas into working code, one project at a time.
 ```
 
 ```bash
-root@donel:~$ cat links.json
+donel@dev:~$ cat status.txt
+```
+```
+open_to_internships : true
+currently_learning  : backend development, cloud fundamentals
+location             : Palai, Kerala, India
 ```
 
-```json
-{
-  "portfolio": "https://donel-scaria-gustine-portfo.netlify.app/",
-  "github":    "https://github.com/donelscariagustine",
-  "linkedin":  "https://www.linkedin.com/in/donel-gustine-35634837a",
-  "email":     "donelscariagustine@gmail.com",
-  "resume":    "https://donel-scaria-gustine-portfo.netlify.app/Donel_Scaria_Gustine_Resume.pdf"
-}
+---
+
+### `$ ls ./skills`
+
+```
+languages/
+├── python        [core]
+├── c              
+└── java           [basics]
+
+tools/
+├── git
+├── github
+├── vs-code
+└── arduino-ide
+
+exploring/
+├── cloud computing
+└── embedded systems (arduino)
 ```
 
-- Portfolio → https://donel-scaria-gustine-portfo.netlify.app/
-- GitHub → https://github.com/donelscariagustine
-- LinkedIn → https://www.linkedin.com/in/donel-gustine-35634837a
-- Email → donelscariagustine@gmail.com
-- Resume → https://donel-scaria-gustine-portfo.netlify.app/Donel_Scaria_Gustine_Resume.pdf
+---
 
-<br>
+### `$ ls ./projects`
+
+```
+> arduino-mp3-player/
+  Portable MP3 player on an Arduino Nano + DFPlayer Mini.
+  OLED display, button controls, volume control.
+  stack: Arduino, C++, DFPlayer Mini
+
+> personal-portfolio/
+  This site — terminal-themed developer portfolio.
+  Backend-ready structure, responsive UI.
+  stack: Node.js, HTML5, CSS3
+
+> gozy-quests/
+  Gamified to-do app inspired by Animal Crossing / Stardew Valley.
+  Tasks, streaks, levels, achievement badges, avatar customization.
+
+> evnora/
+  Minimalist platform to discover, create and host events.
+  Featured events, categories, organizer dashboard.
+
+> antigravity-sandbox/
+  Physics sandbox built with Python + Pygame.
+  Multiple gravity modes, interactive force fields.
+
+> filler-word-detector/
+  Detects filler sounds ("um", "uh") in speech using Python.
+  Uses SpeechRecognition + Whisper.
+
+> redstone-computer/
+  A working computer built in Minecraft redstone.
+  Logic gates, half adder, ALU.
+```
+
+---
+
+### `$ cat education.log`
+
+```
+[2025 -- Present]  Integrated MCA, Semester 2
+                    St. Joseph's College of Engineering & Technology, Palai
+
+[2025]              Higher Secondary Education (+2)
+                    St. George's Higher Secondary School, Aruvithura
+
+[2023]               Secondary Education (10th)
+                    Nirmala Public School, Pizhaku
+
+--- certifications ---
+Course on C            — Livewire, Pala            (Jun–Aug 2025)
+ICSET 9th Edition       — ICT Academy of Kerala     (Jan 2026)
+IBM Technical Workshop — hands-on industry training
+```
+
+---
+
+### `$ git log --oneline --experience`
+
+```
+* Event Organizer — "UNO Reversal"
+|   Directed a college-wide competition; managed team workflows & logistics.
+*
+* IBM Technical Workshop
+|   Hands-on training in emerging industry technologies.
+```
+
+---
+
+### `$ cat contact.sh`
 
 ```bash
-root@donel:~$ decrypt about.md --key=me
+#!/bin/bash
+echo "Let's build something."
+
+EMAIL="donelscariagustine@gmail.com"
+GITHUB="github.com/donelscariagustine"
+LINKEDIN="linkedin.com/in/donel-gustine-35634837a"
+PORTFOLIO="donel-scaria-gustine-portfo.netlify.app"
+
+echo "Reach out — I usually reply within a day."
 ```
 
-```ansi
-[1;32m> [0mFirst-year Integrated MCA student focused on backend development & Python.
-[1;32m> [0mI build practical, working software — gamified apps, event platforms,
-[1;32m> [0mand embedded systems — and I'm sharpening my server-side / systems skills
-[1;32m> [0mone project at a time.
-[1;31m> [0m[STATUS] Actively looking for internship opportunities.
-```
+<div align="center">
 
-<br>
+`Python` `C` `Java` `Git` `Arduino` `Cloud`
 
-```bash
-root@donel:~$ cat skills.yaml
-```
-
-```yaml
-languages:
-  - Python
-  - C
-  - Java
-  - JavaScript
-  - SQL
-
-backend_and_web:
-  - Node.js
-  - Express.js
-  - MongoDB
-  - React
-  - HTML5
-  - CSS3
-
-tools_and_hardware:
-  - Git
-  - GitHub
-  - VS Code
-  - Arduino
-  - Vercel
-  - Linux
-```
-
-<br>
-
-```bash
-root@donel:~$ ls -la ./projects/ | grep -v "archived"
-```
-
-```
-drwxr-xr-x  gozy_quests/         [FOUND]
-drwxr-xr-x  evnora/              [FOUND]
-drwxr-xr-x  shadow_realm/        [ENCRYPTED]
-drwxr-xr-x  arduino_mp3_player/  [FOUND]
-```
-
-**`gozy_quests/`** — Gozy_Quests
-A cozy, gamified task manager inspired by Animal Crossing & Stardew Valley — track tasks, build streaks, level up, unlock achievement badges, and customize your avatar.
-`JavaScript` `React` `Vercel`
-Live: https://gozy-quests.vercel.app/
-Source: https://github.com/donelscariagustine/Gozy_Quests
-
-**`evnora/`** — Evnora
-An editorial, minimalist platform to discover, create, and host remarkable events — featured events, category filters, and an organizer dashboard.
-`JavaScript` `React` `Vercel`
-Live: https://evnora-three.vercel.app/
-Source: https://github.com/donelscariagustine/Evnora
-
-**`shadow_realm/`** — Shadow_Realm
-A personal project in active development.
-Source: https://github.com/donelscariagustine/Shadow_Realm
-
-**`arduino_mp3_player/`** — Arduino MP3 Player
-Portable MP3 player built on an Arduino Nano + DFPlayer Mini — button controls, OLED display, and volume control.
-`Arduino` `C++` `DFPlayer Mini`
-
-<br>
-
-```bash
-root@donel:~$ cat status.log
-```
-
-```diff
-+ [OK] STATUS: OPEN_TO_WORK
-+ [OK] Actively seeking backend development / software engineering internships
-+ [OK] Education: Integrated MCA @ St. Joseph's College of Engineering & Technology, Palai
-! [INFO] Building projects daily to sharpen backend + full-stack skills
-- [WARN] Sleep schedule: unencrypted, vulnerable, needs patching
-```
-
-<br>
-
-```ansi
-[1;32m[SYSTEM]:[0m opening secure channel...
-```
-
-```bash
-root@donel:~$ ./contact.sh --secure
-```
-
-```
-> LinkedIn : https://www.linkedin.com/in/donel-gustine-35634837a
-> Email    : donelscariagustine@gmail.com
-```
-
-```ansi
-[1;32m[SYSTEM]:[0m connection terminated. session logged.
-```
+</div>
