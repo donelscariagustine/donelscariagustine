@@ -1,55 +1,55 @@
 <div align="center">
 
-```
-██████╗  ██████╗ ███╗   ██╗███████╗██╗     
-██╔══██╗██╔═══██╗████╗  ██║██╔════╝██║     
-██║  ██║██║   ██║██╔██╗ ██║█████╗  ██║     
-██║  ██║██║   ██║██║╚██╗██║██╔══╝  ██║     
-██████╔╝╚██████╔╝██║ ╚████║███████╗███████╗
-╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝
+```ansi
+[36m██████╗  ██████╗ ███╗   ██╗███████╗██╗     [0m
+[36m██╔══██╗██╔═══██╗████╗  ██║██╔════╝██║     [0m
+[36m██║  ██║██║   ██║██╔██╗ ██║█████╗  ██║     [0m
+[36m██║  ██║██║   ██║██║╚██╗██║██╔══╝  ██║     [0m
+[36m██████╔╝╚██████╔╝██║ ╚████║███████╗███████╗[0m
+[36m╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝[0m
 ```
 
-**Backend Developer in progress // Python · C · Java**
+**[32mBackend Developer in progress[0m // [33mPython[0m · [33mC[0m · [33mJava[0m**
 
 </div>
 
 ---
 
-```bash
-donel@dev:~$ whoami
+```ansi
+[32mdonel@dev[0m:[34m~[0m$ whoami
 ```
-```
-Donel Scaria Gustine
+```ansi
+[1mDonel Scaria Gustine[0m
 Integrated MCA student @ St. Joseph's College of Engineering & Technology, Palai
 Aspiring backend developer — turning ideas into working code, one project at a time.
 ```
 
-```bash
-donel@dev:~$ cat status.txt
+```ansi
+[32mdonel@dev[0m:[34m~[0m$ cat status.txt
 ```
-```
-open_to_internships : true
-currently_learning  : backend development, cloud fundamentals
-location             : Palai, Kerala, India
+```ansi
+[36mopen_to_internships[0m : [32mtrue[0m
+[36mcurrently_learning [0m : backend development, cloud fundamentals
+[36mlocation            [0m : Palai, Kerala, India
 ```
 
 ---
 
 ### `$ ls ./skills`
 
-```
-languages/
-├── python        [core]
+```ansi
+[33mlanguages/[0m
+├── [32mpython[0m        [core]
 ├── c              
 └── java           [basics]
 
-tools/
+[33mtools/[0m
 ├── git
 ├── github
 ├── vs-code
 └── arduino-ide
 
-exploring/
+[33mexploring/[0m
 ├── cloud computing
 └── embedded systems (arduino)
 ```
@@ -58,88 +58,56 @@ exploring/
 
 ### `$ ls ./projects`
 
-```
-> arduino-mp3-player/
+```ansi
+[36m> arduino-mp3-player/[0m
   Portable MP3 player on an Arduino Nano + DFPlayer Mini.
   OLED display, button controls, volume control.
-  stack: Arduino, C++, DFPlayer Mini
+  [90mstack: Arduino, C++, DFPlayer Mini[0m
 
-> personal-portfolio/
+[36m> personal-portfolio/[0m
   This site — terminal-themed developer portfolio.
   Backend-ready structure, responsive UI.
-  stack: Node.js, HTML5, CSS3
+  [90mstack: Node.js, HTML5, CSS3[0m
 
-> gozy-quests/
+[36m> gozy-quests/[0m
   Gamified to-do app inspired by Animal Crossing / Stardew Valley.
   Tasks, streaks, levels, achievement badges, avatar customization.
 
-> evnora/
+[36m> evnora/[0m
   Minimalist platform to discover, create and host events.
   Featured events, categories, organizer dashboard.
 
-> antigravity-sandbox/
+[36m> antigravity-sandbox/[0m
   Physics sandbox built with Python + Pygame.
   Multiple gravity modes, interactive force fields.
 
-> filler-word-detector/
+[36m> filler-word-detector/[0m
   Detects filler sounds ("um", "uh") in speech using Python.
   Uses SpeechRecognition + Whisper.
 
-> redstone-computer/
+[36m> redstone-computer/[0m
   A working computer built in Minecraft redstone.
   Logic gates, half adder, ALU.
 ```
 
 ---
 
-### `$ cat education.log`
-
-```
-[2025 -- Present]  Integrated MCA, Semester 2
-                    St. Joseph's College of Engineering & Technology, Palai
-
-[2025]              Higher Secondary Education (+2)
-                    St. George's Higher Secondary School, Aruvithura
-
-[2023]               Secondary Education (10th)
-                    Nirmala Public School, Pizhaku
-
---- certifications ---
-Course on C            — Livewire, Pala            (Jun–Aug 2025)
-ICSET 9th Edition       — ICT Academy of Kerala     (Jan 2026)
-IBM Technical Workshop — hands-on industry training
-```
-
----
-
-### `$ git log --oneline --experience`
-
-```
-* Event Organizer — "UNO Reversal"
-|   Directed a college-wide competition; managed team workflows & logistics.
-*
-* IBM Technical Workshop
-|   Hands-on training in emerging industry technologies.
-```
-
----
-
 ### `$ cat contact.sh`
 
-```bash
-#!/bin/bash
-echo "Let's build something."
+```ansi
+[90m#!/bin/bash[0m
+echo [32m"Let's build something."[0m
 
-EMAIL="donelscariagustine@gmail.com"
-GITHUB="github.com/donelscariagustine"
-LINKEDIN="linkedin.com/in/donel-gustine-35634837a"
-PORTFOLIO="donel-scaria-gustine-portfo.netlify.app"
+[36mEMAIL[0m=[33m"donelscariagustine@gmail.com"[0m
+[36mGITHUB[0m=[33m"github.com/donelscariagustine"[0m
+[36mLINKEDIN[0m=[33m"linkedin.com/in/donel-gustine-35634837a"[0m
+[36mPORTFOLIO[0m=[33m"donel-scaria-gustine-portfo.netlify.app"[0m
 
-echo "Reach out — I usually reply within a day."
+echo [32m"Reach out - I usually reply within a day."[0m
 ```
 
 <div align="center">
 
-`Python` `C` `Java` `Git` `Arduino` `Cloud`
+[32m`Python`[0m [33m`C`[0m [36m`Java`[0m [35m`Git`[0m [34m`Arduino`[0m [31m`Cloud`[0m
 
 </div>
